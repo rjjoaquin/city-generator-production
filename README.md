@@ -2,6 +2,8 @@
 
 A procedural city playground built with Next.js, React, TypeScript, and HTML Canvas. Turn a seed into a fictional city, adjust its character, and explore its roads, neighborhoods, parks, and buildings.
 
+[See how it works](https://city-generator.rjwebdeveloper.com).
+
 City generation uses seeded randomness and geometric rules. The prompt box recognizes a small set of keywords; it does not use an AI service or require an API key.
 
 ## Features
